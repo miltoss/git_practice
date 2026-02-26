@@ -3,4 +3,6 @@ Hello again.
 Another line
 Change in dev
 
+Hey, we fixed the bug
+
 
