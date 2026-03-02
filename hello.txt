@@ -5,4 +5,4 @@ Change in dev
 
 Hey, we fixed the bug
 
-
+Another change in critical bug.
